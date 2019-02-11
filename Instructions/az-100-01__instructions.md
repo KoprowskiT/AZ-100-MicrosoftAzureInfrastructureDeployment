@@ -107,7 +107,7 @@ The main tasks for this exercise are as follows:
 
 1. From the **az1000101-RG** blade, display its **Access control (IAM)** blade.
 
-1. From the **az1000101-RG - Access control (IAM)** blade, display the **Add permissions** blade.
+1. From the **az1000101-RG - Access control (IAM)** blade, display the **Add role assignment** blade.
 
 1. From the **Add permissions** blade, create the following role assignment:
 
